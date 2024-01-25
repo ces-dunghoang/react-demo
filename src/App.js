@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={coder} alt="logo" width={300} />
+        <img src={coderTest} alt="logo" width={300} />
         <p>
           Welcome to demo visual testing app 
         </p>
