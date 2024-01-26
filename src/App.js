@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={coderTest} alt="logo" width={300} />
+        <img src={coder} alt="logo" width={300} />
         <p>
-          Welcome to demo visual testing app 
+          Welcome to demo visual testing app sprint 6
         </p>
       </header>
     </div>
